@@ -1,1 +1,1 @@
-# PlantWateringSystem
+# Java Plant Watering System
